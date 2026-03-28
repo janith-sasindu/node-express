@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Air Max 270",
+      "brand": "Nike",
+      "price": 150,
+      "category": "Sneakers",
+      "inStock": true,
+      "sizes": [7, 8, 9, 10, 11],
+      "colors": ["Red", "Black", "White"]
+    },
+    {
+      "id": 2,
+      "name": "Ultraboost 22",
+      "brand": "Adidas",
+      "price": 180,
+      "category": "Running Shoes",
+      "inStock": true,
+      "sizes": [8, 9, 10, 12],
+      "colors": ["Blue", "Gray", "Black"]
+    },
+    {
+      "id": 3,
+      "name": "Classic Leather",
+      "brand": "Reebok",
+      "price": 75,
+      "category": "Casual",
+      "inStock": false,
+      "sizes": [7, 8, 9, 10],
+      "colors": ["White", "Black", "Tan"]
+    }
+  ],
+  "totalProducts": 3,
+  "lastUpdated": "2024-01-15"
+}
